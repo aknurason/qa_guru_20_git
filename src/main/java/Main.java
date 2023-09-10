@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args){
-        String message = "Hello, qa.guru!";
-        System.out.println(message);
+        String messagess = "Hello, qa.guru!";
+        System.out.println(messagess);
     }
 }
